@@ -1,0 +1,7 @@
+{
+  "name": "AutoLog",
+  "description": "A smart logbook for all your vehicle maintenance.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
